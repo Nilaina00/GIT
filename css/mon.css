@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section1{
+    background-color: #c0c0c0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-section{
+    width: auto;
+}
+.div1{
+    width: auto;
+}
+.h1-1{
+    font-size: 4em;
+}
